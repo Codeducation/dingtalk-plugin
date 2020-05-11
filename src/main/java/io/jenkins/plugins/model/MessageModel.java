@@ -30,7 +30,7 @@ import org.apache.commons.lang.StringUtils;
 @Builder
 public class MessageModel {
 
-  public static final String DEFAULT_TITLE = "Jenkins 构建通知";
+  public static final String DEFAULT_TITLE = "Jenkins Build Notification";
 
   /**
    * 消息类型
